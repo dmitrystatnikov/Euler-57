@@ -1,12 +1,7 @@
 #include <boost/multiprecision/cpp_int.hpp>
-#include <cmath>
 #include <cstdlib>
 #include <iostream>
-#include <numeric>
-#include <ratio>
 #include <tuple>
-#include <type_traits>
-#include <sstream>
 
 using namespace boost;
 using namespace boost::multiprecision;
